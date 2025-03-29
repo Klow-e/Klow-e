@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="left">Hey, I'm Chloe ♥️</h1>
 
-<!--
-**Klow-e/Klow-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm from Andalucía and I study linguistics. I code Python tools for NLP.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🤟 Languages: Spanish, Italian, French, English, bit of Hebrew.<br>🪦 I'm also a musician and an undertaker.<br>📚 Well read in Political Science and Biblical Studies.<br>🐂 FOSS enthusiast, I use Solus OS btw.<br>📧 chloevampi01@gmail.com</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
