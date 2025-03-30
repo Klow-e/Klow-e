@@ -24,13 +24,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-</div>
+<p><div align="center">
+
+  ![Python](https://img.shields.io/badge/python-4DABCF.svg?style=for-the-badge&logo=python&logoColor=fff)
+  ![LaTeX](https://img.shields.io/badge/latex-000000.svg?style=for-the-badge&logo=latex&logoColor=fff)
+  
+</div></p>
 
 ###
 
